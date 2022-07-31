@@ -1,0 +1,1 @@
+This project is to collect invoice details of a customer present inside a spreadsheet and generate new invoice for each data present inside the invoice Spreadsheet. 
